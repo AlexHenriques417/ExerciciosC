@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//Fase de testes
-
 typedef struct {
     int x;
     int y;
